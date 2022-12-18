@@ -12,5 +12,5 @@ With the help of the mobile app movies, you can look for your favourite films an
 
 ##### REDUX
 
-> BEFORE STARTING APP PLEASE ADD API KEYS IN env.ts FILE LOCATED IN
+> BEFORE START USING THIS APP PLEASE ADD API KEYS IN env.ts FILE LOCATED IN
 > ./src/assets
